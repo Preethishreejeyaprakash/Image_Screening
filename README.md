@@ -99,3 +99,9 @@ This project demonstrates real-time object detection using the YOLOv5 model and 
 
 This project is open-source and can be modified for personal or academic purposes.  
 
+## Screenshot and Output
+
+
+
+![Screenshot 2024-11-23 154651](https://github.com/user-attachments/assets/e947559f-7239-4772-907d-2361ccab853a)
+
